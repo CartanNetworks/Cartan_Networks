@@ -1,6 +1,6 @@
 # Cartan Networks: Group theoretical Hyperbolic Deep Learning
 
-This repository is the official implementation of [Cartan Networks: Group theoretical Hyperbolic Deep Learning](https://arxiv.org/). 
+This repository is the official implementation of Cartan Networks: Group theoretical Hyperbolic Deep Learning
 
 ## Requirements
 
